@@ -1,0 +1,11 @@
+name: webapp-commodities-markets
+title:
+username:
+account: plakkakula
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5873978
+bundleId: 5695054
+url: https://plakkakula.shinyapps.io/webapp-commodities-markets/
+when: 1647519290.91572
+lastSyncTime: 1647519290.91574

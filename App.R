@@ -24,7 +24,7 @@ imp.dat <- dat.viz %>%
 #############################################################
 
 ui <- fluidPage(
-  titlePanel("Commodities: Production, Consumption, and Trade"),
+  titlePanel("Trends: Production, Consumption, and Trade"),
   theme = shinytheme("flatly"), #sandstone, flatly, cerulean
   sidebarPanel(
     selectInput("country", "Select a Country:", choices = unique(dat.viz$Country), selected = "Argentina"),
